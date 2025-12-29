@@ -1,0 +1,13 @@
+## <path_to_dadk>/dadk.tar.bz2
+## dadk==2025.3.3
+openpyxl==3.1.5
+networkx==3.4.2
+matplotlib==3.10.1
+biopython==1.85
+dendropy==5.0.1
+scipy==1.6.1
+scikit-learn
+rpy2==3.5.17
+statsmodels==0.14.5
+dimod==0.12.21
+dwave-system==1.34.0
